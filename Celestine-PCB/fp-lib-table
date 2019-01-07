@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name hitek725)(type KiCad)(uri ${KIPRJMOD}/hitek725.pretty)(options "")(descr ""))
+  (lib (name locallib)(type KiCad)(uri ${KIPRJMOD}/locallib.pretty)(options "")(descr ""))
+)

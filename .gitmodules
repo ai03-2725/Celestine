@@ -1,0 +1,9 @@
+[submodule "Celestine-PCB/MX_Alps_Hybrid.pretty"]
+	path = Celestine-PCB/MX_Alps_Hybrid.pretty
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.pretty
+[submodule "Celestine-PCB/Molex-0548190589.pretty"]
+	path = Celestine-PCB/Molex-0548190589.pretty
+	url = https://github.com/ai03-2725/Molex-0548190589.pretty
+[submodule "Celestine-PCB/Type-C.pretty"]
+	path = Celestine-PCB/Type-C.pretty
+	url = https://github.com/ai03-2725/Type-C.pretty
