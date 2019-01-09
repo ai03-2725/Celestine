@@ -7,3 +7,6 @@
 [submodule "Celestine-PCB/Type-C.pretty"]
 	path = Celestine-PCB/Type-C.pretty
 	url = https://github.com/ai03-2725/Type-C.pretty
+[submodule "Celestine-PCB/random-keyboard-parts.pretty"]
+	path = Celestine-PCB/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
